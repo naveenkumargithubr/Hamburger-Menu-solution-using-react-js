@@ -21,8 +21,9 @@ const Header = () => (
         />
       </Link>
 
+  // this popup model is display the popup in the screen
       <Popup
-        modal
+        modal //modal display the  small popup window 
         trigger={
           <button
             className="trigger-button"
