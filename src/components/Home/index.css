@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.home-img {
+  width: 90%;
+  max-width: 400px;
+}
+
+.home-img-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-grow: 1;
+}
